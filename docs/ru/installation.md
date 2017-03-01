@@ -27,6 +27,12 @@ npm install vuex --save
 yarn add vuex
 ```
 
+### Yarn
+
+``` bash
+yarn add vuex
+```
+
 Если вы используете модули, установите Vuex явным образом командой `Vue.use()`:
 
 ``` js
